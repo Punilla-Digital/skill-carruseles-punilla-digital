@@ -1,0 +1,14 @@
+interface:
+  display_name: Carruseles Punilla Digital
+  short_description: Crea carruseles publicitarios listos para Instagram
+  default_prompt: Usá $crear-carrusel-punilla-digital para crear un carrusel de 7
+    placas sobre este servicio.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
